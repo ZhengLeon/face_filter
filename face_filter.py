@@ -39,6 +39,6 @@ if __name__ == "__main__":
     #path = input("输入需要复制文件目录：")
     path = './Images'
     # 创建目标文件夹
-    mkPath = "./all/"
+    mkPath = "./Filtered_Images/"
     #CreateDir(mkPath)
     FilterFace(path,mkPath)
