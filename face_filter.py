@@ -37,7 +37,7 @@ def FilterFace(filepath, newPath):
 
 if __name__ == "__main__":
     #path = input("输入需要复制文件目录：")
-    path = 'E:\\datasets\\CNBC\\Multiracial'
+    path = './Images'
     # 创建目标文件夹
     mkPath = "./all/"
     #CreateDir(mkPath)
